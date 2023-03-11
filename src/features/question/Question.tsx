@@ -1,5 +1,4 @@
 import styles from "./Question.module.css";
-
 export interface IQuestionProps {
   optionA: string;
   optionB: string;
